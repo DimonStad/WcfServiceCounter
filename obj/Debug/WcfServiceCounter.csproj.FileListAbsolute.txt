@@ -1,0 +1,13 @@
+C:\Users\Дмитрий\source\repos\WordCounter\WcfServiceCounter\bin\WcfServiceCounter.dll.config
+C:\Users\Дмитрий\source\repos\WordCounter\WcfServiceCounter\bin\WcfServiceCounter.dll
+C:\Users\Дмитрий\source\repos\WordCounter\WcfServiceCounter\bin\WcfServiceCounter.pdb
+C:\Users\Дмитрий\source\repos\WordCounter\WcfServiceCounter\obj\Debug\WcfServiceCounter.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\WordCounter\WcfServiceCounter\obj\Debug\WcfServiceCounter.dll
+C:\Users\Дмитрий\source\repos\WordCounter\WcfServiceCounter\obj\Debug\WcfServiceCounter.pdb
+C:\Users\Дмитрий\source\repos\WordCounter\WcfServiceCounter\obj\Debug\WcfServiceCounter.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\WordCounter\WcfServiceCounter\bin\WcfServiceCounter.dll.config
+C:\Users\Дмитрий\Desktop\WordCounter\WcfServiceCounter\bin\WcfServiceCounter.dll
+C:\Users\Дмитрий\Desktop\WordCounter\WcfServiceCounter\bin\WcfServiceCounter.pdb
+C:\Users\Дмитрий\Desktop\WordCounter\WcfServiceCounter\obj\Debug\WcfServiceCounter.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\WordCounter\WcfServiceCounter\obj\Debug\WcfServiceCounter.dll
+C:\Users\Дмитрий\Desktop\WordCounter\WcfServiceCounter\obj\Debug\WcfServiceCounter.pdb
